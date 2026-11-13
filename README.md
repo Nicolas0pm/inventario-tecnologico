@@ -7,6 +7,8 @@ Sistema para administrar los computadores y dispositivos tecnológicos de una se
 
 **Aplicación en línea:** https://nicolas0pm.github.io/inventario-tecnologico/
 
+**Video explicativo:** https://youtu.be/FVNg7C28K9w
+
 ## Contenido
 
 | Archivo | Descripción |
